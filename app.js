@@ -4,3 +4,7 @@ console.log("Corregido");
 
 //Ready for deployment
 console.log("Ready for deployment");
+
+
+//Hotfix
+console.log("Hotfix");
